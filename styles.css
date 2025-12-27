@@ -69,3 +69,9 @@
   right: 10px;
 }
 
+@media screen and (max-width: 768px) {
+	.slider {
+		aspect-ratio: auto 9/16;
+		justify-content: center;
+	}
+}
